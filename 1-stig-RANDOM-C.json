@@ -1,0 +1,5982 @@
+{
+ "name_bars": [
+  [
+   {
+    "count": 14, 
+    "color": "#245540", 
+    "name": "(none)"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#77b86b", 
+    "name": "elizabeth"
+   }, 
+   {
+    "count": 1, 
+    "color": "#36b1da", 
+    "name": "chloe"
+   }, 
+   {
+    "count": 1, 
+    "color": "#548de0", 
+    "name": "susan"
+   }, 
+   {
+    "count": 1, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 1, 
+    "color": "#8280de", 
+    "name": "erin"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 1, 
+    "color": "#33319b", 
+    "name": "amanda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }
+  ], 
+  [
+   {
+    "count": 7, 
+    "color": "#245540", 
+    "name": "(none)"
+   }, 
+   {
+    "count": 2, 
+    "color": "#548de0", 
+    "name": "susan"
+   }, 
+   {
+    "count": 2, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 2, 
+    "color": "#33319b", 
+    "name": "amanda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3e4e75", 
+    "name": "amber"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4587ac", 
+    "name": "natalie"
+   }, 
+   {
+    "count": 1, 
+    "color": "#36b1da", 
+    "name": "chloe"
+   }, 
+   {
+    "count": 1, 
+    "color": "#484ccc", 
+    "name": "jen"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3358ae", 
+    "name": "julie"
+   }, 
+   {
+    "count": 1, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 1, 
+    "color": "#8280de", 
+    "name": "erin"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }
+  ], 
+  [
+   {
+    "count": 2, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 2, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 2, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 1, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#26611c", 
+    "name": "veronica"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4587ac", 
+    "name": "natalie"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3647e2", 
+    "name": "jessica"
+   }, 
+   {
+    "count": 1, 
+    "color": "#548de0", 
+    "name": "susan"
+   }, 
+   {
+    "count": 1, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#484ccc", 
+    "name": "jen"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4972ad", 
+    "name": "brittany"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4972ad", 
+    "name": "julia"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5ab8c8", 
+    "name": "jennifer"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3e4e75", 
+    "name": "amy"
+   }, 
+   {
+    "count": 1, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3647e2", 
+    "name": "emily"
+   }, 
+   {
+    "count": 1, 
+    "color": "#33319b", 
+    "name": "amanda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#484ccc", 
+    "name": "anna"
+   }, 
+   {
+    "count": 1, 
+    "color": "#77b86b", 
+    "name": "elizabeth"
+   }
+  ], 
+  [
+   {
+    "count": 2, 
+    "color": "#484ccc", 
+    "name": "jen"
+   }, 
+   {
+    "count": 2, 
+    "color": "#33319b", 
+    "name": "amanda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 2, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 2, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 2, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 1, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#26611c", 
+    "name": "veronica"
+   }, 
+   {
+    "count": 1, 
+    "color": "#44c82f", 
+    "name": "sue"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6d62a3", 
+    "name": "tina"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5ab8c8", 
+    "name": "jennifer"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4972ad", 
+    "name": "brittany"
+   }, 
+   {
+    "count": 1, 
+    "color": "#83b1d8", 
+    "name": "megan"
+   }, 
+   {
+    "count": 1, 
+    "color": "#364f92", 
+    "name": "barbara"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#44c82f", 
+    "name": "victoria"
+   }, 
+   {
+    "count": 1, 
+    "color": "#554baa", 
+    "name": "stephanie"
+   }
+  ], 
+  [
+   {
+    "count": 4, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 3, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 2, 
+    "color": "#245540", 
+    "name": "(none)"
+   }, 
+   {
+    "count": 1, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#48bc89", 
+    "name": "katy"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3b8b98", 
+    "name": "jenny"
+   }, 
+   {
+    "count": 1, 
+    "color": "#83b1d8", 
+    "name": "megan"
+   }, 
+   {
+    "count": 1, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#484ccc", 
+    "name": "jen"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5ab8c8", 
+    "name": "jennifer"
+   }, 
+   {
+    "count": 1, 
+    "color": "#554baa", 
+    "name": "stephanie"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6d62a3", 
+    "name": "tina"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#33319b", 
+    "name": "amanda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 1, 
+    "color": "#484ccc", 
+    "name": "anna"
+   }, 
+   {
+    "count": 1, 
+    "color": "#42ae39", 
+    "name": "donna"
+   }
+  ], 
+  [
+   {
+    "count": 4, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 3, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 3, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 2, 
+    "color": "#245540", 
+    "name": "(none)"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3647e2", 
+    "name": "jessica"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3358ae", 
+    "name": "julie"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6b977d", 
+    "name": "jackie"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3e4e75", 
+    "name": "amy"
+   }, 
+   {
+    "count": 1, 
+    "color": "#42ae39", 
+    "name": "donna"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6d62a3", 
+    "name": "tina"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3647e2", 
+    "name": "emily"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3b8b98", 
+    "name": "jenny"
+   }
+  ], 
+  [
+   {
+    "count": 6, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#9898ca", 
+    "name": "rachel"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3b8b98", 
+    "name": "jenny"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6d62a3", 
+    "name": "suzy"
+   }, 
+   {
+    "count": 1, 
+    "color": "#9898ca", 
+    "name": "joy"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3b8a60", 
+    "name": "sara"
+   }, 
+   {
+    "count": 1, 
+    "color": "#42ae39", 
+    "name": "alexis"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6d62a3", 
+    "name": "tina"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3b8b98", 
+    "name": "martha"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 1, 
+    "color": "#313978", 
+    "name": "kristen"
+   }
+  ], 
+  [
+   {
+    "count": 6, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 3, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 2, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#205e74", 
+    "name": "ashley"
+   }, 
+   {
+    "count": 1, 
+    "color": "#8280de", 
+    "name": "erin"
+   }, 
+   {
+    "count": 1, 
+    "color": "#42c167", 
+    "name": "sophie"
+   }, 
+   {
+    "count": 1, 
+    "color": "#484ccc", 
+    "name": "jen"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7471f1", 
+    "name": "alyssa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#313978", 
+    "name": "kristen"
+   }
+  ], 
+  [
+   {
+    "count": 5, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 5, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 2, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4fc2b6", 
+    "name": "christina"
+   }, 
+   {
+    "count": 1, 
+    "color": "#369c93", 
+    "name": "sofia"
+   }, 
+   {
+    "count": 1, 
+    "color": "#205e74", 
+    "name": "ashley"
+   }, 
+   {
+    "count": 1, 
+    "color": "#42c167", 
+    "name": "libda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#9898ca", 
+    "name": "rachel"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#42c167", 
+    "name": "sophie"
+   }, 
+   {
+    "count": 1, 
+    "color": "#33319b", 
+    "name": "amanda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3b8b98", 
+    "name": "jenny"
+   }
+  ], 
+  [
+   {
+    "count": 7, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 2, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#205e74", 
+    "name": "ashley"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6d7ba0", 
+    "name": "jillian"
+   }, 
+   {
+    "count": 1, 
+    "color": "#369c93", 
+    "name": "sofia"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5ab8c8", 
+    "name": "jennifer"
+   }, 
+   {
+    "count": 1, 
+    "color": "#2f592f", 
+    "name": "celia"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#33319b", 
+    "name": "andrea"
+   }, 
+   {
+    "count": 1, 
+    "color": "#554baa", 
+    "name": "rebecca"
+   }
+  ], 
+  [
+   {
+    "count": 7, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 3, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 2, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 1, 
+    "color": "#33319b", 
+    "name": "andrea"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3647e2", 
+    "name": "jessica"
+   }, 
+   {
+    "count": 1, 
+    "color": "#548de0", 
+    "name": "wendi"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7471f1", 
+    "name": "karen"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#77b86b", 
+    "name": "lauren"
+   }
+  ], 
+  [
+   {
+    "count": 8, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 3, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 2, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 2, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3647e2", 
+    "name": "jessica"
+   }, 
+   {
+    "count": 1, 
+    "color": "#85b993", 
+    "name": "teresa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#a5a3e9", 
+    "name": "laura"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3a58c4", 
+    "name": "claire"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }
+  ], 
+  [
+   {
+    "count": 8, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 3, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 3, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#313978", 
+    "name": "kathy"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3647e2", 
+    "name": "jessica"
+   }, 
+   {
+    "count": 1, 
+    "color": "#9898ca", 
+    "name": "rachel"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }
+  ], 
+  [
+   {
+    "count": 11, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 5, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 3, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#408e3f", 
+    "name": "sarah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4fc2b6", 
+    "name": "debbi"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }
+  ], 
+  [
+   {
+    "count": 8, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#3a58c4", 
+    "name": "mary"
+   }, 
+   {
+    "count": 3, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 2, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#408e3f", 
+    "name": "mariah"
+   }, 
+   {
+    "count": 1, 
+    "color": "#205e74", 
+    "name": "ashley"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3b8b98", 
+    "name": "jenny"
+   }, 
+   {
+    "count": 1, 
+    "color": "#366f65", 
+    "name": "erica"
+   }, 
+   {
+    "count": 1, 
+    "color": "#364f92", 
+    "name": "dawn"
+   }
+  ], 
+  [
+   {
+    "count": 10, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 5, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 4, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5da1df", 
+    "name": "destiny"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "margaret"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6b977d", 
+    "name": "allison"
+   }, 
+   {
+    "count": 1, 
+    "color": "#245540", 
+    "name": "lori"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }
+  ], 
+  [
+   {
+    "count": 12, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 6, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 3, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6d62a3", 
+    "name": "tina"
+   }, 
+   {
+    "count": 1, 
+    "color": "#26611c", 
+    "name": "rose"
+   }, 
+   {
+    "count": 1, 
+    "color": "#484ccc", 
+    "name": "jen"
+   }
+  ], 
+  [
+   {
+    "count": 13, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 2, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#369c93", 
+    "name": "teena"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#554baa", 
+    "name": "rebecca"
+   }
+  ], 
+  [
+   {
+    "count": 11, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 3, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 3, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#85b993", 
+    "name": "a"
+   }, 
+   {
+    "count": 1, 
+    "color": "#48bc89", 
+    "name": "michelle"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5ab8c8", 
+    "name": "christine"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#a5a3e9", 
+    "name": "lindsay"
+   }
+  ], 
+  [
+   {
+    "count": 13, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 2, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#366f65", 
+    "name": "denise"
+   }, 
+   {
+    "count": 1, 
+    "color": "#4483f2", 
+    "name": "jane"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3358ae", 
+    "name": "fiona"
+   }
+  ], 
+  [
+   {
+    "count": 16, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 3, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }
+  ], 
+  [
+   {
+    "count": 12, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 4, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#3b8a60", 
+    "name": "emma"
+   }, 
+   {
+    "count": 1, 
+    "color": "#42ae39", 
+    "name": "donna"
+   }
+  ], 
+  [
+   {
+    "count": 14, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 5, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#8280de", 
+    "name": "haley"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5da1df", 
+    "name": "rachael"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }
+  ], 
+  [
+   {
+    "count": 11, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 5, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 5, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 1, 
+    "color": "#2f592f", 
+    "name": "diana"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5da1df", 
+    "name": "rachael"
+   }, 
+   {
+    "count": 1, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }
+  ], 
+  [
+   {
+    "count": 13, 
+    "color": "#b67ce3", 
+    "name": "alice"
+   }, 
+   {
+    "count": 4, 
+    "color": "#e17bbc", 
+    "name": "kim"
+   }, 
+   {
+    "count": 3, 
+    "color": "#7ae6a4", 
+    "name": "linda"
+   }, 
+   {
+    "count": 2, 
+    "color": "#7f94e2", 
+    "name": "lisa"
+   }, 
+   {
+    "count": 1, 
+    "color": "#5dd6cf", 
+    "name": "tara"
+   }, 
+   {
+    "count": 1, 
+    "color": "#6ac959", 
+    "name": "danielle"
+   }
+  ]
+ ], 
+ "percent": [
+  {
+   "y": 0, 
+   "x": 1
+  }, 
+  {
+   "y": 0.0, 
+   "x": 1
+  }, 
+  {
+   "y": 0.0, 
+   "x": 2
+  }, 
+  {
+   "y": 0.083, 
+   "x": 3
+  }, 
+  {
+   "y": 0.0, 
+   "x": 4
+  }, 
+  {
+   "y": 0.0, 
+   "x": 5
+  }, 
+  {
+   "y": 0.083, 
+   "x": 6
+  }, 
+  {
+   "y": 0.25, 
+   "x": 7
+  }, 
+  {
+   "y": 0.25, 
+   "x": 8
+  }, 
+  {
+   "y": 0.25, 
+   "x": 9
+  }, 
+  {
+   "y": 0.167, 
+   "x": 10
+  }, 
+  {
+   "y": 0.167, 
+   "x": 11
+  }, 
+  {
+   "y": 0.25, 
+   "x": 12
+  }, 
+  {
+   "y": 0.167, 
+   "x": 13
+  }, 
+  {
+   "y": 0.25, 
+   "x": 14
+  }, 
+  {
+   "y": 0.083, 
+   "x": 15
+  }, 
+  {
+   "y": 0.417, 
+   "x": 16
+  }, 
+  {
+   "y": 0.333, 
+   "x": 17
+  }, 
+  {
+   "y": 0.417, 
+   "x": 18
+  }, 
+  {
+   "y": 0.417, 
+   "x": 19
+  }, 
+  {
+   "y": 0.417, 
+   "x": 20
+  }, 
+  {
+   "y": 0.583, 
+   "x": 21
+  }, 
+  {
+   "y": 0.25, 
+   "x": 22
+  }, 
+  {
+   "y": 0.583, 
+   "x": 23
+  }, 
+  {
+   "y": 0.333, 
+   "x": 24
+  }, 
+  {
+   "y": 0.333, 
+   "x": 25
+  }
+ ], 
+ "general": {
+  "Topo": "RandomC", 
+  "Medial": "One name"
+ }, 
+ "network_links": [
+  {
+   "y1": 1.866, 
+   "x2": 0.5, 
+   "x1": 0.5, 
+   "y2": 0.134
+  }, 
+  {
+   "y1": 2.0, 
+   "x2": 0.134, 
+   "x1": 1.0, 
+   "y2": 1.5
+  }, 
+  {
+   "y1": 0.034, 
+   "x2": 0.293, 
+   "x1": 1.259, 
+   "y2": 1.707
+  }, 
+  {
+   "y1": 0.0, 
+   "x2": 0.741, 
+   "x1": 1.0, 
+   "y2": 1.966
+  }, 
+  {
+   "y1": 1.966, 
+   "x2": 1.259, 
+   "x1": 0.741, 
+   "y2": 1.966
+  }, 
+  {
+   "y1": 1.966, 
+   "x2": 1.966, 
+   "x1": 1.259, 
+   "y2": 0.741
+  }, 
+  {
+   "y1": 0.5, 
+   "x2": 1.259, 
+   "x1": 1.866, 
+   "y2": 0.034
+  }, 
+  {
+   "y1": 0.5, 
+   "x2": 1.966, 
+   "x1": 1.866, 
+   "y2": 1.259
+  }, 
+  {
+   "y1": 0.293, 
+   "x2": 0.034, 
+   "x1": 0.293, 
+   "y2": 0.741
+  }, 
+  {
+   "y1": 0.5, 
+   "x2": 1.707, 
+   "x1": 0.134, 
+   "y2": 0.293
+  }, 
+  {
+   "y1": 1.707, 
+   "x2": 0.5, 
+   "x1": 1.707, 
+   "y2": 0.134
+  }, 
+  {
+   "y1": 0.5, 
+   "x2": 0.5, 
+   "x1": 0.134, 
+   "y2": 0.134
+  }, 
+  {
+   "y1": 1.866, 
+   "x2": 0.134, 
+   "x1": 1.5, 
+   "y2": 1.5
+  }, 
+  {
+   "y1": 1.5, 
+   "x2": 0.034, 
+   "x1": 1.866, 
+   "y2": 1.259
+  }, 
+  {
+   "y1": 1.259, 
+   "x2": 0.5, 
+   "x1": 1.966, 
+   "y2": 1.866
+  }, 
+  {
+   "y1": 0.293, 
+   "x2": 0.034, 
+   "x1": 1.707, 
+   "y2": 1.259
+  }, 
+  {
+   "y1": 1.966, 
+   "x2": 0.034, 
+   "x1": 0.741, 
+   "y2": 0.741
+  }, 
+  {
+   "y1": 0.5, 
+   "x2": 1.259, 
+   "x1": 1.866, 
+   "y2": 1.966
+  }, 
+  {
+   "y1": 0.5, 
+   "x2": 0.0, 
+   "x1": 0.134, 
+   "y2": 1.0
+  }, 
+  {
+   "y1": 0.134, 
+   "x2": 1.259, 
+   "x1": 1.5, 
+   "y2": 0.034
+  }, 
+  {
+   "y1": 2.0, 
+   "x2": 1.966, 
+   "x1": 1.0, 
+   "y2": 0.741
+  }, 
+  {
+   "y1": 0.293, 
+   "x2": 1.966, 
+   "x1": 0.293, 
+   "y2": 0.741
+  }, 
+  {
+   "y1": 1.966, 
+   "x2": 1.5, 
+   "x1": 0.741, 
+   "y2": 0.134
+  }, 
+  {
+   "y1": 0.5, 
+   "x2": 1.707, 
+   "x1": 0.134, 
+   "y2": 1.707
+  }, 
+  {
+   "y1": 0.0, 
+   "x2": 2.0, 
+   "x1": 1.0, 
+   "y2": 1.0
+  }, 
+  {
+   "y1": 1.0, 
+   "x2": 0.741, 
+   "x1": 0.0, 
+   "y2": 0.034
+  }, 
+  {
+   "y1": 1.0, 
+   "x2": 1.5, 
+   "x1": 0.0, 
+   "y2": 1.866
+  }, 
+  {
+   "y1": 1.866, 
+   "x2": 1.0, 
+   "x1": 1.5, 
+   "y2": 2.0
+  }, 
+  {
+   "y1": 1.707, 
+   "x2": 0.293, 
+   "x1": 1.707, 
+   "y2": 0.293
+  }, 
+  {
+   "y1": 1.0, 
+   "x2": 0.034, 
+   "x1": 2.0, 
+   "y2": 0.741
+  }, 
+  {
+   "y1": 1.259, 
+   "x2": 1.966, 
+   "x1": 1.966, 
+   "y2": 0.741
+  }, 
+  {
+   "y1": 1.5, 
+   "x2": 0.741, 
+   "x1": 1.866, 
+   "y2": 0.034
+  }, 
+  {
+   "y1": 1.0, 
+   "x2": 0.134, 
+   "x1": 2.0, 
+   "y2": 1.5
+  }, 
+  {
+   "y1": 1.866, 
+   "x2": 0.741, 
+   "x1": 1.5, 
+   "y2": 0.034
+  }, 
+  {
+   "y1": 1.866, 
+   "x2": 0.034, 
+   "x1": 0.5, 
+   "y2": 1.259
+  }, 
+  {
+   "y1": 1.707, 
+   "x2": 0.034, 
+   "x1": 0.293, 
+   "y2": 0.741
+  }, 
+  {
+   "y1": 0.0, 
+   "x2": 0.293, 
+   "x1": 1.0, 
+   "y2": 0.293
+  }, 
+  {
+   "y1": 0.5, 
+   "x2": 1.707, 
+   "x1": 1.866, 
+   "y2": 0.293
+  }, 
+  {
+   "y1": 1.5, 
+   "x2": 1.259, 
+   "x1": 1.866, 
+   "y2": 0.034
+  }, 
+  {
+   "y1": 1.866, 
+   "x2": 1.5, 
+   "x1": 0.5, 
+   "y2": 0.134
+  }, 
+  {
+   "y1": 0.0, 
+   "x2": 1.0, 
+   "x1": 1.0, 
+   "y2": 2.0
+  }, 
+  {
+   "y1": 1.0, 
+   "x2": 1.707, 
+   "x1": 2.0, 
+   "y2": 0.293
+  }, 
+  {
+   "y1": 0.134, 
+   "x2": 0.134, 
+   "x1": 0.5, 
+   "y2": 1.5
+  }, 
+  {
+   "y1": 1.0, 
+   "x2": 0.034, 
+   "x1": 0.0, 
+   "y2": 1.259
+  }, 
+  {
+   "y1": 0.034, 
+   "x2": 0.293, 
+   "x1": 0.741, 
+   "y2": 1.707
+  }, 
+  {
+   "y1": 1.259, 
+   "x2": 0.293, 
+   "x1": 1.966, 
+   "y2": 1.707
+  }, 
+  {
+   "y1": 1.707, 
+   "x2": 1.5, 
+   "x1": 1.707, 
+   "y2": 0.134
+  }, 
+  {
+   "y1": 1.5, 
+   "x2": 1.259, 
+   "x1": 1.866, 
+   "y2": 1.966
+  }
+ ], 
+ "nodes": [
+  {
+   "name": "A315ZG72CPNAHV", 
+   "color": [
+    "#245540", 
+    "#245540", 
+    "#3647e2", 
+    "#44c82f", 
+    "#484ccc", 
+    "#42ae39", 
+    "#7471f1", 
+    "#7471f1", 
+    "#42c167", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#e17bbc", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "(none)", 
+    "(none)", 
+    "Jessica", 
+    "SUE", 
+    "Jen", 
+    "Donna", 
+    "Karen", 
+    "Karen", 
+    "Libda", 
+    "Linda", 
+    "Linda", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Linda", 
+    "Kim", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Alice", 
+    "Linda", 
+    "alice"
+   ], 
+   "y": 0.741, 
+   "x": 1.966, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\tsusan<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tsusan<br>Medial:\t\tAmber<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJessica<br>Alter:\t\tJulia<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSUE<br>Alter:\t\tJen<br>Medial:\t\tJen<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJen<br>Alter:\t\tstephanie<br>Medial:\t\tJenny<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tDonna<br>Alter:\t\tkaren<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\tMartha<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\talice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLibda<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tkaren<br>Medial:\t\tCelia<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tJessica<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tMary<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\trachel<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tlinda<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tjane<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tlinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tJen<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tJane<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tchristine<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tLinda<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\talice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\trachael<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\talice<br>Alter:\t\tlinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0"
+   ]
+  }, 
+  {
+   "name": "A364KJDYEBAWC9", 
+   "color": [
+    "#245540", 
+    "#33319b", 
+    "#77b86b", 
+    "#33319b", 
+    "#7471f1", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "(none)", 
+    "Amanda", 
+    "Elizabeth", 
+    "Amanda", 
+    "Karen", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice"
+   ], 
+   "y": 0.5, 
+   "x": 1.866, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\t(none)<br>Medial:\t\tErin<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmanda<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tElizabeth<br>Alter:\t\tAmanda<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmanda<br>Alter:\t\tKaren<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\talice<br>Medial:\t\tJennifer<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tEmily<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tKristen<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKaren<br>Success?:\t\tTrue<br>Earnings:\t\t0.4", 
+    "Name Played:\tAlice<br>Alter:\t\tkaren<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.35", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tTeresa<br>Success?:\t\tTrue<br>Earnings:\t\t0.45", 
+    "Name Played:\tAlice<br>Alter:\t\tMary<br>Medial:\t\tKathy<br>Success?:\t\tFalse<br>Earnings:\t\t0.4", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tMary<br>Success?:\t\tTrue<br>Earnings:\t\t0.5", 
+    "Name Played:\tAlice<br>Alter:\t\tMary<br>Medial:\t\tErica<br>Success?:\t\tFalse<br>Earnings:\t\t0.45", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.55", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.65", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.75", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.85", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.95", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.05", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.15", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t1.25", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t1.35", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t1.45"
+   ]
+  }, 
+  {
+   "name": "A2PXJTMWGUE5DC", 
+   "color": [
+    "#245540", 
+    "#245540", 
+    "#33319b", 
+    "#33319b", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "(none)", 
+    "(none)", 
+    "Amanda", 
+    "Amanda", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice"
+   ], 
+   "y": 0.293, 
+   "x": 1.707, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tAmanda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmanda<br>Alter:\t\tElizabeth<br>Medial:\t\tJennifer<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmanda<br>Alter:\t\tTina<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tMary<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tTina<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tJenny<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tAmanda<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tCelia<br>Success?:\t\tTrue<br>Earnings:\t\t0.15", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.25", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLaura<br>Success?:\t\tTrue<br>Earnings:\t\t0.35", 
+    "Name Played:\tAlice<br>Alter:\t\tSarah<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.25", 
+    "Name Played:\tAlice<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\tJen<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.25", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tJane<br>Success?:\t\tTrue<br>Earnings:\t\t0.35", 
+    "Name Played:\tAlice<br>Alter:\t\ta<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.4", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.5", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.6", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.7", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.65", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.75"
+   ]
+  }, 
+  {
+   "name": "A1YTNGH5SMM2CJ", 
+   "color": [
+    "#3a58c4", 
+    "#7471f1", 
+    "#7471f1", 
+    "#408e3f", 
+    "#33319b", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#e17bbc", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#408e3f", 
+    "#7ae6a4", 
+    "#3a58c4", 
+    "#3a58c4", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7f94e2"
+   ], 
+   "name_played": [
+    "Mary", 
+    "Karen", 
+    "Karen", 
+    "Sarah", 
+    "Amanda", 
+    "Linda", 
+    "Linda", 
+    "Kim", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Sarah", 
+    "Linda", 
+    "Mary", 
+    "Mary", 
+    "Alice", 
+    "Linda", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Linda", 
+    "Alice", 
+    "Alice", 
+    "Lisa"
+   ], 
+   "y": 0.134, 
+   "x": 1.5, 
+   "desc": [
+    "Name Played:\tMary<br>Alter:\t\tKaren<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\t(none)<br>Medial:\t\tSusan<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\tSarah<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tBarbara<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmanda<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tlinda<br>Medial:\t\tJessica<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tsuzy<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tKim<br>Alter:\t\tlinda<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tsofia<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tLinda<br>Alter:\t\tsarah<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tkim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tJessica<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tAlice<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.15", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.25", 
+    "Name Played:\tAlice<br>Alter:\t\tLisa<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\tlinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tlisa<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tlisa<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tLisa<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17"
+   ]
+  }, 
+  {
+   "name": "A3PRZRK9IC5CBI", 
+   "color": [
+    "#7471f1", 
+    "#3a58c4", 
+    "#408e3f", 
+    "#7471f1", 
+    "#7471f1", 
+    "#7471f1", 
+    "#3a58c4", 
+    "#4483f2", 
+    "#7ae6a4", 
+    "#7471f1", 
+    "#408e3f", 
+    "#4483f2", 
+    "#3a58c4", 
+    "#b67ce3", 
+    "#3a58c4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "Karen", 
+    "Mary", 
+    "Sarah", 
+    "Karen", 
+    "Karen", 
+    "Karen", 
+    "Mary", 
+    "Jane", 
+    "Linda", 
+    "Karen", 
+    "sarah", 
+    "Jane", 
+    "Mary", 
+    "Alice", 
+    "Mary", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice"
+   ], 
+   "y": 0.034, 
+   "x": 1.259, 
+   "desc": [
+    "Name Played:\tKaren<br>Alter:\t\tMary<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tJane<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tKaren<br>Medial:\t\tBrittany<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\tAmanda<br>Medial:\t\tTina<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\tJane<br>Medial:\t\tDonna<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\t(none)<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tJane<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tJen<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tKaren<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tKaren<br>Alter:\t\tAlice<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tsarah<br>Alter:\t\tLinda<br>Medial:\t\tAndrea<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tAlice<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tAlice<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tMary<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.15", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.25", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.35", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.45", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.55", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.65", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.6", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tTrue<br>Earnings:\t\t0.7", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.8", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.9"
+   ]
+  }, 
+  {
+   "name": "A110KENBXU7SUJ", 
+   "color": [
+    "#7f94e2", 
+    "#245540", 
+    "#26611c", 
+    "#554baa", 
+    "#48bc89", 
+    "#3358ae", 
+    "#3b8a60", 
+    "#8280de", 
+    "#7ae6a4", 
+    "#2f592f", 
+    "#548de0", 
+    "#85b993", 
+    "#313978", 
+    "#4fc2b6", 
+    "#364f92", 
+    "#6b977d", 
+    "#6d62a3", 
+    "#369c93", 
+    "#a5a3e9", 
+    "#366f65", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#5da1df", 
+    "#e17bbc", 
+    "#5dd6cf"
+   ], 
+   "name_played": [
+    "Lisa", 
+    "(none)", 
+    "Veronica", 
+    "Stephanie", 
+    "Katy", 
+    "Julie", 
+    "Sara", 
+    "Erin", 
+    "Linda", 
+    "Celia", 
+    "Wendi", 
+    "Teresa", 
+    "Kathy", 
+    "Debbi", 
+    "Dawn", 
+    "Allison", 
+    "Tina", 
+    "Teena", 
+    "Lindsay", 
+    "Denise", 
+    "Alice", 
+    "Linda", 
+    "Rachael", 
+    "Kim", 
+    "Tara"
+   ], 
+   "y": 0.0, 
+   "x": 1.0, 
+   "desc": [
+    "Name Played:\tLisa<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\t(none)<br>Medial:\t\tNatalie<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tVeronica<br>Alter:\t\tamy<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tStephanie<br>Alter:\t\tveronica<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaty<br>Alter:\t\tMegan<br>Medial:\t\tJennifer<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJulie<br>Alter:\t\tjackie<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSara<br>Alter:\t\tJoy<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tErin<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tJenny<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tCelia<br>Alter:\t\tRebecca<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tWendi<br>Alter:\t\tAlice<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tTeresa<br>Alter:\t\tJane<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKathy<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tDebbi<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tDawn<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAllison<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tTina<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tTeena<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLindsay<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tDenise<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tdonna<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tRachael<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tTara<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0"
+   ]
+  }, 
+  {
+   "name": "A2BW6WD7LZ9EGV", 
+   "color": [
+    "#245540", 
+    "#3e4e75", 
+    "#5ab8c8", 
+    "#4972ad", 
+    "#3b8b98", 
+    "#7471f1", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#9898ca", 
+    "#205e74", 
+    "#4483f2", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#4483f2", 
+    "#4483f2", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "(none)", 
+    "Amber", 
+    "Jennifer", 
+    "Brittany", 
+    "Jenny", 
+    "Karen", 
+    "Alice", 
+    "Alice", 
+    "Rachel", 
+    "Ashley", 
+    "Jane", 
+    "Alice", 
+    "Kim", 
+    "Alice", 
+    "Kim", 
+    "Alice", 
+    "Kim", 
+    "Alice", 
+    "Jane", 
+    "Jane", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice"
+   ], 
+   "y": 0.034, 
+   "x": 0.741, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\t(none)<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmber<br>Alter:\t\t(none)<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJennifer<br>Alter:\t\tBrittany<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tBrittany<br>Alter:\t\tVictoria<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJenny<br>Alter:\t\tAnna<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\tJane<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tRachel<br>Medial:\t\tKristen<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlyssa<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tRachel<br>Alter:\t\tJane<br>Medial:\t\tAshley<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAshley<br>Alter:\t\tJane<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tKim<br>Alter:\t\tJane<br>Medial:\t\tJenny<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tAlice<br>Alter:\t\tJane<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tJane<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tJane<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tJane<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.15", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.25", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.2"
+   ]
+  }, 
+  {
+   "name": "A13JDX06ZXN4KJ", 
+   "color": [
+    "#245540", 
+    "#245540", 
+    "#3a58c4", 
+    "#83b1d8", 
+    "#6d62a3", 
+    "#3647e2", 
+    "#b67ce3", 
+    "#408e3f", 
+    "#e17bbc", 
+    "#6d7ba0", 
+    "#3a58c4", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#3b8b98", 
+    "#e17bbc", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#e17bbc"
+   ], 
+   "name_played": [
+    "(none)", 
+    "(none)", 
+    "Mary", 
+    "Megan", 
+    "Tina", 
+    "Jessica", 
+    "Alice", 
+    "Sarah", 
+    "Kim", 
+    "Jillian", 
+    "Mary", 
+    "Kim", 
+    "alice", 
+    "alice", 
+    "Jenny", 
+    "Kim", 
+    "Linda", 
+    "alice", 
+    "kim", 
+    "Alice", 
+    "kim", 
+    "Alice", 
+    "Kim", 
+    "Alice", 
+    "Kim"
+   ], 
+   "y": 0.134, 
+   "x": 0.5, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\tAlice<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tMary<br>Medial:\t\tErin<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tSusan<br>Medial:\t\tJulia<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMegan<br>Alter:\t\tKim<br>Medial:\t\tTina<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tTina<br>Alter:\t\tSarah<br>Medial:\t\tJennifer<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJessica<br>Alter:\t\talice<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tJane<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tSarah<br>Alter:\t\tKim<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tKim<br>Alter:\t\tAshley<br>Medial:\t\tAshley<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJillian<br>Alter:\t\tSarah<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tKim<br>Medial:\t\tAndrea<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tkim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tkim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJenny<br>Alter:\t\tAlice<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tLinda<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tkim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.4", 
+    "Name Played:\tKim<br>Alter:\t\tLisa<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.35", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.3", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.4"
+   ]
+  }, 
+  {
+   "name": "AAASQIW3J32OL", 
+   "color": [
+    "#36b1da", 
+    "#4587ac", 
+    "#7ae6a4", 
+    "#7471f1", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#e17bbc", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4"
+   ], 
+   "name_played": [
+    "chloe", 
+    "Natalie", 
+    "Linda", 
+    "karen", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Kim", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda"
+   ], 
+   "y": 0.293, 
+   "x": 0.293, 
+   "desc": [
+    "Name Played:\tchloe<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tNatalie<br>Alter:\t\tchloe<br>Medial:\t\tSusan<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tkaren<br>Medial:\t\tEmily<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkaren<br>Alter:\t\tlinda<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tkaren<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLisa<br>Medial:\t\tDonna<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tJoy<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tErin<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tLinda<br>Alter:\t\tLibda<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tkim<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tlinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tKathy<br>Medial:\t\tRachel<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tDebbi<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\talice<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tAllison<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\talice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tLisa<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tChristine<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tLinda<br>Alter:\t\tlisa<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tlisa<br>Medial:\t\tDonna<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tKim<br>Medial:\t\tRachael<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tlisa<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0"
+   ]
+  }, 
+  {
+   "name": "A2VE5IV9OD2SK1", 
+   "color": [
+    "#7f94e2", 
+    "#7f94e2", 
+    "#7f94e2", 
+    "#e17bbc", 
+    "#408e3f", 
+    "#6d62a3", 
+    "#6d62a3", 
+    "#e17bbc", 
+    "#408e3f", 
+    "#408e3f", 
+    "#408e3f", 
+    "#408e3f", 
+    "#408e3f", 
+    "#3a58c4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7f94e2", 
+    "#7f94e2", 
+    "#7f94e2", 
+    "#b67ce3", 
+    "#7f94e2", 
+    "#7f94e2", 
+    "#e17bbc", 
+    "#e17bbc"
+   ], 
+   "name_played": [
+    "Lisa", 
+    "Lisa", 
+    "Lisa", 
+    "Kim", 
+    "Sarah", 
+    "Tina", 
+    "Tina", 
+    "Kim", 
+    "Sarah", 
+    "Sarah", 
+    "Sarah", 
+    "Sarah", 
+    "Sarah", 
+    "Mary", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Lisa", 
+    "Lisa", 
+    "Lisa", 
+    "Alice", 
+    "Lisa", 
+    "Lisa", 
+    "Kim", 
+    "Kim"
+   ], 
+   "y": 0.5, 
+   "x": 0.134, 
+   "desc": [
+    "Name Played:\tLisa<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLisa<br>Alter:\t\tAmanda<br>Medial:\t\tAmber<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLisa<br>Alter:\t\tEmily<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tMegan<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tTina<br>Medial:\t\tDonna<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tTina<br>Alter:\t\tAlice<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tTina<br>Alter:\t\tlinda<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tSarah<br>Medial:\t\tJen<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tkim<br>Medial:\t\tRachel<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tJillian<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tLauren<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tClaire<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tAlice<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tJenny<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tMargaret<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLisa<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLisa<br>Alter:\t\tlisa<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLisa<br>Alter:\t\tFiona<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tLisa<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLisa<br>Alter:\t\tEmma<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLisa<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1"
+   ]
+  }, 
+  {
+   "name": "AZNIEFUIVB2H0", 
+   "color": [
+    "#245540", 
+    "#36b1da", 
+    "#4587ac", 
+    "#484ccc", 
+    "#b67ce3", 
+    "#7f94e2", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#3a58c4", 
+    "#245540", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#7ae6a4"
+   ], 
+   "name_played": [
+    "(none)", 
+    "chloe", 
+    "natalie", 
+    "Jen", 
+    "Alice", 
+    "Lisa", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Linda", 
+    "Alice", 
+    "Kim", 
+    "Linda", 
+    "Linda", 
+    "Mary", 
+    "Lori", 
+    "Linda", 
+    "Linda", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Kim", 
+    "Alice", 
+    "Linda", 
+    "Linda"
+   ], 
+   "y": 0.741, 
+   "x": 0.034, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\tchloe<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tchloe<br>Alter:\t\tNatalie<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tnatalie<br>Alter:\t\tJen<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJen<br>Alter:\t\tAlice<br>Medial:\t\tSue<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLisa<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tJane<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tLinda<br>Alter:\t\tChristina<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tKim<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tLinda<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tMary<br>Alter:\t\tErica<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tLori<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tTeena<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tLindsay<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tAlice<br>Alter:\t\tLisa<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tHaley<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tLinda<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17"
+   ]
+  }, 
+  {
+   "name": "A3EBUBRYCKB6AF", 
+   "color": [
+    "#245540", 
+    "#33319b", 
+    "#3647e2", 
+    "#44c82f", 
+    "#484ccc", 
+    "#3b8b98", 
+    "#42ae39", 
+    "#7471f1", 
+    "#42c167", 
+    "#33319b", 
+    "#77b86b", 
+    "#3a58c4", 
+    "#408e3f", 
+    "#3a58c4", 
+    "#408e3f", 
+    "#4483f2", 
+    "#26611c", 
+    "#554baa", 
+    "#48bc89", 
+    "#3358ae", 
+    "#7f94e2", 
+    "#3b8a60", 
+    "#8280de", 
+    "#2f592f", 
+    "#6ac959"
+   ], 
+   "name_played": [
+    "(none)", 
+    "Amanda", 
+    "Emily", 
+    "Victoria", 
+    "Anna", 
+    "Jenny", 
+    "Alexis", 
+    "Alyssa", 
+    "Sophie", 
+    "Andrea", 
+    "Lauren", 
+    "Claire", 
+    "Sarah", 
+    "Mary", 
+    "Mariah", 
+    "Margaret", 
+    "Rose", 
+    "Rebecca", 
+    "Michelle", 
+    "Fiona", 
+    "Lisa", 
+    "Emma", 
+    "Haley", 
+    "Diana", 
+    "Danielle"
+   ], 
+   "y": 1.0, 
+   "x": 0.0, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\tAmanda<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmanda<br>Alter:\t\tLisa<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tEmily<br>Alter:\t\tLisa<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tVictoria<br>Alter:\t\tBrittany<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAnna<br>Alter:\t\tJenny<br>Medial:\t\tJenny<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJenny<br>Alter:\t\tAlice<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlexis<br>Alter:\t\tKim<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlyssa<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSophie<br>Alter:\t\tKaren<br>Medial:\t\tChristina<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAndrea<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLauren<br>Alter:\t\tSarah<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tClaire<br>Alter:\t\tSarah<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSarah<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tSarah<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMariah<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMargaret<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tRose<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tRebecca<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMichelle<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tFiona<br>Alter:\t\tLisa<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLisa<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tEmma<br>Alter:\t\tLisa<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tHaley<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tDiana<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tDanielle<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0"
+   ]
+  }, 
+  {
+   "name": "A2SJC9VRBGNC58", 
+   "color": [
+    "#245540", 
+    "#548de0", 
+    "#4483f2", 
+    "#4483f2", 
+    "#3a58c4", 
+    "#b67ce3", 
+    "#3b8b98", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#33319b", 
+    "#3a58c4", 
+    "#3a58c4", 
+    "#408e3f", 
+    "#3a58c4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#85b993", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "(none)", 
+    "Susan", 
+    "Jane", 
+    "Jane", 
+    "Mary", 
+    "Alice", 
+    "Jenny", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Andrea", 
+    "Mary", 
+    "Mary", 
+    "Sarah", 
+    "Mary", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "a", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice"
+   ], 
+   "y": 1.259, 
+   "x": 0.034, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSusan<br>Alter:\t\tJane<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tJane<br>Medial:\t\tAnna<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tJane<br>Alter:\t\tMary<br>Medial:\t\tJennifer<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tMary<br>Alter:\t\tAlice<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tJenny<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJenny<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tSophie<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\tAndrea<br>Medial:\t\tAshley<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tAndrea<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tMary<br>Alter:\t\tMary<br>Medial:\t\tMary<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tMary<br>Alter:\t\tSarah<br>Medial:\t\tRachel<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tSarah<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tMary<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.15", 
+    "Name Played:\tAlice<br>Alter:\t\tRose<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tRebecca<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\ta<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.38777878078e-17", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tFiona<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\tHaley<br>Medial:\t\tRachael<br>Success?:\t\tFalse<br>Earnings:\t\t0.25", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.35", 
+    "Name Played:\tAlice<br>Alter:\t\tDanielle<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.3"
+   ]
+  }, 
+  {
+   "name": "A3L0DCUXI7X3A9", 
+   "color": [
+    "#245540", 
+    "#3a58c4", 
+    "#3a58c4", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#313978", 
+    "#205e74", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#3a58c4", 
+    "#3a58c4", 
+    "#3a58c4", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc"
+   ], 
+   "name_played": [
+    "(none)", 
+    "Mary", 
+    "Mary", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kristen", 
+    "Ashley", 
+    "Kim", 
+    "Kim", 
+    "Mary", 
+    "Mary", 
+    "Mary", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim"
+   ], 
+   "y": 1.5, 
+   "x": 0.134, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\tElizabeth<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\t(none)<br>Medial:\t\tJulie<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tKim<br>Medial:\t\tSusan<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tJennifer<br>Medial:\t\tBarbara<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tJennifer<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tAmy<br>Medial:\t\tJulie<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tKristen<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKristen<br>Alter:\t\tAshley<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAshley<br>Alter:\t\tKim<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tJennifer<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tAlice<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tKim<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tAshley<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tKim<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tKim<br>Alter:\t\tkim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.25", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.35", 
+    "Name Played:\tKim<br>Alter:\t\tkim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.45", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tDonna<br>Success?:\t\tFalse<br>Earnings:\t\t0.4", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.5", 
+    "Name Played:\tKim<br>Alter:\t\tlinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.45", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.4"
+   ]
+  }, 
+  {
+   "name": "A3R1O5UC9QJGKY", 
+   "color": [
+    "#245540", 
+    "#b67ce3", 
+    "#484ccc", 
+    "#b67ce3", 
+    "#245540", 
+    "#245540", 
+    "#9898ca", 
+    "#484ccc", 
+    "#4fc2b6", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "(none)", 
+    "Alice", 
+    "Anna", 
+    "Alice", 
+    "(none)", 
+    "(none)", 
+    "Rachel", 
+    "Jen", 
+    "Christina", 
+    "Alice", 
+    "Kim", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice"
+   ], 
+   "y": 1.707, 
+   "x": 0.293, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\terin<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\terin<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAnna<br>Alter:\t\talice<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tJen<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tAlice<br>Medial:\t\tTina<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tKaren<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tRachel<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJen<br>Alter:\t\tJane<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tChristina<br>Alter:\t\tLinda<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tKaren<br>Medial:\t\tJennifer<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tAndrea<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tJane<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tMary<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tMary<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tDestiny<br>Success?:\t\tTrue<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.4", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.35", 
+    "Name Played:\tAlice<br>Alter:\t\tJane<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tJane<br>Success?:\t\tTrue<br>Earnings:\t\t0.4", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.5", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.45", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tRachael<br>Success?:\t\tTrue<br>Earnings:\t\t0.55", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.65", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.6"
+   ]
+  }, 
+  {
+   "name": "A3MFK5UEUG95M3", 
+   "color": [
+    "#b67ce3", 
+    "#4483f2", 
+    "#548de0", 
+    "#3a58c4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "Alice", 
+    "Jane", 
+    "Susan", 
+    "Mary", 
+    "Alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "alice", 
+    "alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "Alice", 
+    "Alice"
+   ], 
+   "y": 1.866, 
+   "x": 0.5, 
+   "desc": [
+    "Name Played:\tAlice<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tSusan<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSusan<br>Alter:\t\tMary<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\talice<br>Medial:\t\tJen<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAmanda<br>Medial:\t\tJen<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tJessica<br>Medial:\t\tJulie<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tMartha<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tKaren<br>Success?:\t\tTrue<br>Earnings:\t\t0.4", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tJessica<br>Success?:\t\tTrue<br>Earnings:\t\t0.5", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.45", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.55", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.65", 
+    "Name Played:\talice<br>Alter:\t\tMary<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.6", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tLori<br>Success?:\t\tTrue<br>Earnings:\t\t0.7", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.65", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.75", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.85", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tTrue<br>Earnings:\t\t0.95", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t1.05", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t1.15", 
+    "Name Played:\talice<br>Alter:\t\talice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t1.25", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.35", 
+    "Name Played:\tAlice<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.45"
+   ]
+  }, 
+  {
+   "name": "AK8ONB60Q4RJ5", 
+   "color": [
+    "#245540", 
+    "#3358ae", 
+    "#484ccc", 
+    "#364f92", 
+    "#42ae39", 
+    "#6b977d", 
+    "#6d62a3", 
+    "#7ae6a4", 
+    "#7471f1", 
+    "#369c93", 
+    "#b67ce3", 
+    "#a5a3e9", 
+    "#3647e2", 
+    "#b67ce3", 
+    "#366f65", 
+    "#5da1df", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#7f94e2", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "(none)", 
+    "julie", 
+    "Jen", 
+    "Barbara", 
+    "Donna", 
+    "jackie", 
+    "suzy", 
+    "Linda", 
+    "Karen", 
+    "sofia", 
+    "Alice", 
+    "laura", 
+    "Jessica", 
+    "Alice", 
+    "Erica", 
+    "Destiny", 
+    "Linda", 
+    "Linda", 
+    "Alice", 
+    "Lisa", 
+    "Alice", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Alice"
+   ], 
+   "y": 1.966, 
+   "x": 0.741, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\tLisa<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tjulie<br>Alter:\t\tJen<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJen<br>Alter:\t\tnatalie<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tBarbara<br>Alter:\t\tSarah<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tDonna<br>Alter:\t\t(none)<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tjackie<br>Alter:\t\tJulie<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tsuzy<br>Alter:\t\tLinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tKristen<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tKaren<br>Alter:\t\tsofia<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tsofia<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tWendi<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlaura<br>Alter:\t\tJessica<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJessica<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tMary<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tErica<br>Alter:\t\tMary<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tDestiny<br>Alter:\t\tlinda<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tLinda<br>Alter:\t\tTeena<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tTrue<br>Earnings:\t\t0.15", 
+    "Name Played:\tLisa<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tKim<br>Alter:\t\talice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tKim<br>Alter:\t\tkim<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.25", 
+    "Name Played:\tKim<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\tLisa<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.15"
+   ]
+  }, 
+  {
+   "name": "ARVXIBUCA8WDZ", 
+   "color": [
+    "#548de0", 
+    "#548de0", 
+    "#3e4e75", 
+    "#26611c", 
+    "#554baa", 
+    "#245540", 
+    "#313978", 
+    "#7471f1", 
+    "#3b8b98", 
+    "#554baa", 
+    "#3647e2", 
+    "#4483f2", 
+    "#9898ca", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#4483f2", 
+    "#5ab8c8", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#42ae39", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "susan", 
+    "susan", 
+    "amy", 
+    "veronica", 
+    "stephanie", 
+    "(none)", 
+    "Kristen", 
+    "Karen", 
+    "Jenny", 
+    "Rebecca", 
+    "Jessica", 
+    "Jane", 
+    "rachel", 
+    "linda", 
+    "Alice", 
+    "linda", 
+    "alice", 
+    "jane", 
+    "christine", 
+    "alice", 
+    "linda", 
+    "donna", 
+    "alice", 
+    "linda", 
+    "alice"
+   ], 
+   "y": 2.0, 
+   "x": 1.0, 
+   "desc": [
+    "Name Played:\tsusan<br>Alter:\t\t(none)<br>Medial:\t\tChloe<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tsusan<br>Alter:\t\t(none)<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tamy<br>Alter:\t\tVeronica<br>Medial:\t\tSusan<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tveronica<br>Alter:\t\tStephanie<br>Medial:\t\tBrittany<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tstephanie<br>Alter:\t\tJen<br>Medial:\t\tDonna<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tKim<br>Medial:\t\tEmily<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKristen<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJenny<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tRebecca<br>Alter:\t\tCelia<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJessica<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tTeresa<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\trachel<br>Alter:\t\tAlice<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlinda<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tDawn<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlinda<br>Alter:\t\tKim<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tTina<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tjane<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tchristine<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tDenise<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlinda<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tdonna<br>Alter:\t\tLinda<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tlinda<br>Alter:\t\tKim<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\talice<br>Alter:\t\tTara<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0"
+   ]
+  }, 
+  {
+   "name": "AKCH7EGJBNV43", 
+   "color": [
+    "#245540", 
+    "#484ccc", 
+    "#4972ad", 
+    "#484ccc", 
+    "#245540", 
+    "#3647e2", 
+    "#3b8b98", 
+    "#42c167", 
+    "#369c93", 
+    "#7471f1", 
+    "#7471f1", 
+    "#3647e2", 
+    "#4483f2", 
+    "#b67ce3", 
+    "#4483f2", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#e17bbc", 
+    "#5da1df", 
+    "#7ae6a4"
+   ], 
+   "name_played": [
+    "(none)", 
+    "Jen", 
+    "Julia", 
+    "Jen", 
+    "(none)", 
+    "Emily", 
+    "Martha", 
+    "Sophie", 
+    "sofia", 
+    "karen", 
+    "karen", 
+    "Jessica", 
+    "jane", 
+    "Alice", 
+    "jane", 
+    "linda", 
+    "Alice", 
+    "Alice", 
+    "linda", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "kim", 
+    "rachael", 
+    "linda"
+   ], 
+   "y": 1.966, 
+   "x": 1.259, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJen<br>Alter:\t\tjulie<br>Medial:\t\tSusan<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJulia<br>Alter:\t\tJessica<br>Medial:\t\tJennifer<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJen<br>Alter:\t\tSUE<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tDonna<br>Medial:\t\tAnna<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tEmily<br>Alter:\t\tAlice<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMartha<br>Alter:\t\tKaren<br>Medial:\t\tJoy<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tSophie<br>Alter:\t\tJane<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tsofia<br>Alter:\t\tKaren<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkaren<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkaren<br>Alter:\t\tAlice<br>Medial:\t\tJessica<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJessica<br>Alter:\t\tlaura<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tjane<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tJane<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tjane<br>Alter:\t\tLinda<br>Medial:\t\tAshley<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlinda<br>Alter:\t\tDestiny<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tlinda<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\talice<br>Alter:\t\tLinda<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tKim<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkim<br>Alter:\t\tKim<br>Medial:\t\tRachael<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\trachael<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tlinda<br>Alter:\t\talice<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0"
+   ]
+  }, 
+  {
+   "name": "A11S8IAAVDXCUS", 
+   "color": [
+    "#33319b", 
+    "#245540", 
+    "#4972ad", 
+    "#5ab8c8", 
+    "#5ab8c8", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#7471f1", 
+    "#5ab8c8", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc"
+   ], 
+   "name_played": [
+    "Amanda", 
+    "(none)", 
+    "Brittany", 
+    "Jennifer", 
+    "Jennifer", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Karen", 
+    "Jennifer", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim", 
+    "Kim"
+   ], 
+   "y": 1.866, 
+   "x": 1.5, 
+   "desc": [
+    "Name Played:\tAmanda<br>Alter:\t\t(none)<br>Medial:\t\tErin<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tAmber<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tBrittany<br>Alter:\t\tJennifer<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJennifer<br>Alter:\t\tKim<br>Medial:\t\tBrittany<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJennifer<br>Alter:\t\tKim<br>Medial:\t\tJen<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\t(none)<br>Medial:\t\tJulie<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tAlexis<br>Medial:\t\tJoy<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tKaren<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKaren<br>Alter:\t\tSophie<br>Medial:\t\tSophie<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJennifer<br>Alter:\t\tKim<br>Medial:\t\tCelia<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tJane<br>Medial:\t\tWendi<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tJane<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tKim<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tKim<br>Alter:\t\tMariah<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tKim<br>Alter:\t\tjane<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tKim<br>Alter:\t\tMichelle<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tKim<br>Alter:\t\tlinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.1", 
+    "Name Played:\tKim<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tKim<br>Alter:\t\tDiana<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.15", 
+    "Name Played:\tKim<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.1"
+   ]
+  }, 
+  {
+   "name": "A154X03NKVZZL1", 
+   "color": [
+    "#245540", 
+    "#245540", 
+    "#7471f1", 
+    "#7ae6a4", 
+    "#7471f1", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#7ae6a4", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#7ae6a4", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#e17bbc", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7f94e2", 
+    "#7f94e2", 
+    "#7ae6a4", 
+    "#7f94e2", 
+    "#7f94e2", 
+    "#7f94e2", 
+    "#7f94e2"
+   ], 
+   "name_played": [
+    "(none)", 
+    "(none)", 
+    "karen", 
+    "linda", 
+    "karen", 
+    "linda", 
+    "linda", 
+    "linda", 
+    "kim", 
+    "kim", 
+    "linda", 
+    "kim", 
+    "kim", 
+    "kim", 
+    "alice", 
+    "Linda", 
+    "alice", 
+    "alice", 
+    "lisa", 
+    "lisa", 
+    "linda", 
+    "lisa", 
+    "lisa", 
+    "lisa", 
+    "lisa"
+   ], 
+   "y": 1.707, 
+   "x": 1.707, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\tLisa<br>Medial:\t\tErin<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\tKaren<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkaren<br>Alter:\t\tLinda<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlinda<br>Alter:\t\tkaren<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkaren<br>Alter:\t\tLinda<br>Medial:\t\tKaty<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlinda<br>Alter:\t\tLinda<br>Medial:\t\tJackie<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tlinda<br>Alter:\t\tTina<br>Medial:\t\tJenny<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tlinda<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkim<br>Alter:\t\tSarah<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkim<br>Alter:\t\tLinda<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlinda<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkim<br>Alter:\t\tSarah<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkim<br>Alter:\t\talice<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkim<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tKim<br>Medial:\t\tDestiny<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tLisa<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlisa<br>Alter:\t\tLisa<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tlisa<br>Alter:\t\tLinda<br>Medial:\t\tLisa<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tlinda<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlisa<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlisa<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlisa<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tlisa<br>Alter:\t\tLinda<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0"
+   ]
+  }, 
+  {
+   "name": "AQL960O0LTRI8", 
+   "color": [
+    "#245540", 
+    "#4483f2", 
+    "#4483f2", 
+    "#3a58c4", 
+    "#4483f2", 
+    "#4483f2", 
+    "#4483f2", 
+    "#4483f2", 
+    "#4483f2", 
+    "#4483f2", 
+    "#3a58c4", 
+    "#3a58c4", 
+    "#3a58c4", 
+    "#4483f2", 
+    "#4483f2", 
+    "#4483f2", 
+    "#b67ce3", 
+    "#4483f2", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "(none)", 
+    "Jane", 
+    "Jane", 
+    "Mary", 
+    "Jane", 
+    "Jane", 
+    "Jane", 
+    "Jane", 
+    "Jane", 
+    "Jane", 
+    "Mary", 
+    "Mary", 
+    "Mary", 
+    "Jane", 
+    "Jane", 
+    "Jane", 
+    "Alice", 
+    "Jane", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice"
+   ], 
+   "y": 1.5, 
+   "x": 1.866, 
+   "desc": [
+    "Name Played:\t(none)<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tMary<br>Medial:\t\tAmanda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tJane<br>Medial:\t\tJane<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tMary<br>Alter:\t\tJane<br>Medial:\t\tBrittany<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tJane<br>Alter:\t\tKaren<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tKaren<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tMary<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tSophie<br>Medial:\t\tErin<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tRachel<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tAshley<br>Medial:\t\tSarah<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tAndrea<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tMary<br>Alter:\t\tjane<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tJane<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJane<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tlinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tJane<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.2", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tTrue<br>Earnings:\t\t0.3", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.4", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.5"
+   ]
+  }, 
+  {
+   "name": "A2OXXHGAM7B0Y", 
+   "color": [
+    "#8280de", 
+    "#8280de", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7471f1", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "erin", 
+    "erin", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "karen", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice", 
+    "alice"
+   ], 
+   "y": 1.259, 
+   "x": 1.966, 
+   "desc": [
+    "Name Played:\terin<br>Alter:\t\t(none)<br>Medial:\t\tSusan<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\terin<br>Alter:\t\tAlice<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tAnna<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tMary<br>Medial:\t\tVictoria<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tKaren<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tkaren<br>Alter:\t\tDonna<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tMartha<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\talice<br>Alter:\t\tKaren<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tSophie<br>Success?:\t\tTrue<br>Earnings:\t\t0.15", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.25", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tKaren<br>Success?:\t\tTrue<br>Earnings:\t\t0.35", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.45", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tTrue<br>Earnings:\t\t0.55", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.65", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAshley<br>Success?:\t\tTrue<br>Earnings:\t\t0.75", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.85", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t0.95", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.05", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.15", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.25", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tLisa<br>Success?:\t\tTrue<br>Earnings:\t\t1.35", 
+    "Name Played:\talice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t1.3", 
+    "Name Played:\talice<br>Alter:\t\talice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.4", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.5", 
+    "Name Played:\talice<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tTrue<br>Earnings:\t\t1.6"
+   ]
+  }, 
+  {
+   "name": "A2WUQGSG1LUJG0", 
+   "color": [
+    "#77b86b", 
+    "#245540", 
+    "#e17bbc", 
+    "#6d62a3", 
+    "#83b1d8", 
+    "#3e4e75", 
+    "#9898ca", 
+    "#205e74", 
+    "#33319b", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#3a58c4", 
+    "#205e74", 
+    "#7ae6a4", 
+    "#484ccc", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7f94e2", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#b67ce3", 
+    "#7ae6a4", 
+    "#b67ce3"
+   ], 
+   "name_played": [
+    "Elizabeth", 
+    "(none)", 
+    "Kim", 
+    "Tina", 
+    "Megan", 
+    "Amy", 
+    "Joy", 
+    "Ashley", 
+    "Amanda", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Mary", 
+    "Ashley", 
+    "Linda", 
+    "Jen", 
+    "Alice", 
+    "Alice", 
+    "Lisa", 
+    "Alice", 
+    "Alice", 
+    "Alice", 
+    "Linda", 
+    "Alice"
+   ], 
+   "y": 1.0, 
+   "x": 2.0, 
+   "desc": [
+    "Name Played:\tElizabeth<br>Alter:\t\t(none)<br>Medial:\t\t(none)<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\t(none)<br>Alter:\t\t(none)<br>Medial:\t\tSusan<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tKim<br>Alter:\t\tMary<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tTina<br>Alter:\t\tAmanda<br>Medial:\t\tJane<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMegan<br>Alter:\t\tKaty<br>Medial:\t\tAnna<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmy<br>Alter:\t\tKim<br>Medial:\t\tKaren<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJoy<br>Alter:\t\tSara<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAshley<br>Alter:\t\tKristen<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAmanda<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tLinda<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tAndrea<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tMary<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tMary<br>Alter:\t\tLinda<br>Medial:\t\tMary<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAshley<br>Alter:\t\tKim<br>Medial:\t\tJenny<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tLori<br>Medial:\t\tAllison<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tJen<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tLindsay<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tLisa<br>Alter:\t\tAlice<br>Medial:\t\tAlice<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tAlice<br>Medial:\t\tKim<br>Success?:\t\tTrue<br>Earnings:\t\t0.1", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tKim<br>Success?:\t\tFalse<br>Earnings:\t\t0.05", 
+    "Name Played:\tAlice<br>Alter:\t\tRachael<br>Medial:\t\tRachael<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tLinda<br>Alter:\t\tAlice<br>Medial:\t\tLinda<br>Success?:\t\tFalse<br>Earnings:\t\t0.0", 
+    "Name Played:\tAlice<br>Alter:\t\tKim<br>Medial:\t\tDanielle<br>Success?:\t\tFalse<br>Earnings:\t\t0.0"
+   ]
+  }
+ ], 
+ "active_links": [
+  [
+   {
+    "y1": 1.5, 
+    "x2": 2.0, 
+    "x1": 0.134, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.966, 
+    "x1": 0.293, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 0.741, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.5, 
+    "x1": 1.259, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 0.034, 
+    "x1": 1.707, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.5, 
+    "x1": 0.5, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.0, 
+    "x1": 1.5, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.707, 
+    "x1": 0.134, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.0, 
+    "x1": 1.966, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.0, 
+    "x1": 0.741, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 1.866, 
+    "x2": 0.034, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 2.0, 
+    "x1": 1.0, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.707, 
+    "x1": 1.866, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 0.0, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.966, 
+    "x1": 0.293, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.966, 
+    "x1": 1.0, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.5, 
+    "x1": 1.707, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.741, 
+    "x1": 1.259, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.134, 
+    "x1": 0.5, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.741, 
+    "x1": 1.5, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 1.5, 
+    "x2": 0.034, 
+    "x1": 1.866, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.5, 
+    "x1": 0.5, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.034, 
+    "x1": 0.741, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.707, 
+    "x1": 1.866, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.966, 
+    "x1": 1.259, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.293, 
+    "x1": 1.966, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.5, 
+    "x1": 1.259, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 0.0, 
+    "x1": 0.134, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 2.0, 
+    "x1": 0.134, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 1.707, 
+    "x1": 2.0, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 0.0, 
+    "x1": 0.741, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 0.5, 
+    "x1": 0.134, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.134, 
+    "x1": 1.5, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 1.966, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.741, 
+    "x1": 1.5, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 1.866, 
+    "x1": 0.034, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.966, 
+    "x1": 1.259, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 0.0, 
+    "x1": 0.741, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.741, 
+    "x1": 1.259, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.0, 
+    "x1": 1.966, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.134, 
+    "x1": 1.5, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 2.0, 
+    "x1": 1.0, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.5, 
+    "x1": 1.5, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 1.866, 
+    "x1": 1.966, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.134, 
+    "x1": 0.5, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 0.034, 
+    "x1": 1.707, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.5, 
+    "x1": 1.707, 
+    "y2": 0.134, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 0.741, 
+    "x1": 1.0, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 1.966, 
+    "x1": 1.966, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 0.741, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 0.293, 
+    "x1": 1.259, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.707, 
+    "x1": 0.134, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 2.0, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.5, 
+    "x1": 1.0, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 0.0, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.5, 
+    "x1": 0.5, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 1.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.741, 
+    "x1": 0.293, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 1.0, 
+    "x1": 2.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.0, 
+    "x1": 0.134, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.0, 
+    "x1": 1.5, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 0.293, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.259, 
+    "x1": 1.966, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.134, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.5, 
+    "x1": 0.5, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 1.866, 
+    "x1": 1.966, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 0.034, 
+    "x1": 1.707, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 2.0, 
+    "x2": 1.5, 
+    "x1": 1.0, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.5, 
+    "x1": 0.034, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.0, 
+    "x1": 0.293, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.966, 
+    "x1": 1.966, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.707, 
+    "x1": 1.866, 
+    "y2": 0.293, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.5, 
+    "x1": 1.707, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 0.293, 
+    "x1": 1.259, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.034, 
+    "x1": 0.741, 
+    "y2": 0.741, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 2.0, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.134, 
+    "x1": 0.5, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.741, 
+    "x1": 0.0, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 1.707, 
+    "x2": 0.134, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.5, 
+    "x1": 0.134, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.5, 
+    "x1": 1.259, 
+    "y2": 0.134, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 1.707, 
+    "x1": 2.0, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.966, 
+    "x1": 0.293, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.259, 
+    "x1": 0.741, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.966, 
+    "x1": 1.866, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.034, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.741, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.0, 
+    "x1": 1.5, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.134, 
+    "x2": 0.741, 
+    "x1": 1.5, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 1.966, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.741, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.707, 
+    "x1": 1.866, 
+    "y2": 0.293, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 0.293, 
+    "x1": 1.259, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.966, 
+    "x1": 1.259, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.0, 
+    "x1": 0.034, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 2.0, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.134, 
+    "x1": 1.5, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 0.5, 
+    "x1": 0.134, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.034, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 2.0, 
+    "x1": 1.707, 
+    "y2": 1.0, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 1.966, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.5, 
+    "x1": 1.259, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.0, 
+    "x1": 0.741, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.034, 
+    "x1": 1.866, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 0.0, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.0, 
+    "x1": 1.966, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.5, 
+    "x1": 0.134, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 2.0, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 1.966, 
+    "x1": 1.966, 
+    "y2": 0.741, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.259, 
+    "x1": 0.293, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.5, 
+    "x1": 0.5, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.741, 
+    "x1": 1.259, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 1.707, 
+    "x1": 1.5, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.034, 
+    "x1": 1.866, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 0.0, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.866, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }
+  ], 
+  [
+   {
+    "y1": 1.866, 
+    "x2": 1.966, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.0, 
+    "x1": 0.034, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.741, 
+    "x1": 1.5, 
+    "y2": 0.034, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.034, 
+    "x1": 0.293, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.0, 
+    "x1": 0.293, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.0, 
+    "x1": 1.966, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.5, 
+    "x1": 1.707, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 2.0, 
+    "x1": 0.134, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 0.134, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.0, 
+    "x2": 0.293, 
+    "x1": 1.0, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 2.0, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.134, 
+    "x1": 1.5, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.966, 
+    "x1": 1.0, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 0.0, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 0.134, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.5, 
+    "x1": 1.707, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 0.293, 
+    "x1": 0.741, 
+    "y2": 1.707, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.5, 
+    "x1": 1.966, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }
+  ], 
+  [
+   {
+    "y1": 0.5, 
+    "x2": 0.5, 
+    "x1": 0.134, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.259, 
+    "x1": 1.966, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.966, 
+    "x1": 0.293, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 0.034, 
+    "x1": 1.707, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 1.5, 
+    "x1": 0.5, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.034, 
+    "x1": 0.741, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 2.0, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.741, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.0, 
+    "x1": 1.5, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.134, 
+    "x2": 1.707, 
+    "x1": 0.5, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 0.0, 
+    "x1": 0.134, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.034, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 0.293, 
+    "x1": 1.0, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.259, 
+    "x1": 0.741, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 1.259, 
+    "x1": 1.5, 
+    "y2": 0.034, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.741, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.866, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.5, 
+    "x1": 0.134, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 2.0, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.966, 
+    "x1": 1.0, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.293, 
+    "x1": 1.966, 
+    "y2": 1.707, 
+    "color": "#84f45e"
+   }
+  ], 
+  [
+   {
+    "y1": 1.5, 
+    "x2": 0.741, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.134, 
+    "x1": 0.5, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.259, 
+    "x1": 1.966, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.5, 
+    "x1": 0.134, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 0.0, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 0.293, 
+    "x1": 1.259, 
+    "y2": 1.707, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 1.5, 
+    "x1": 0.5, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 1.866, 
+    "x1": 1.966, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 2.0, 
+    "x1": 1.707, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.034, 
+    "x1": 0.741, 
+    "y2": 0.741, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 0.293, 
+    "x2": 2.0, 
+    "x1": 1.707, 
+    "y2": 1.0, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 1.966, 
+    "y2": 0.293, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 1.0, 
+    "x1": 1.5, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.5, 
+    "x1": 0.134, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 0.741, 
+    "x1": 1.0, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 0.741, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.5, 
+    "x1": 1.259, 
+    "y2": 0.134, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.5, 
+    "x1": 1.966, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.134, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 0.0, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 1.707, 
+    "x2": 0.741, 
+    "x1": 0.293, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 1.966, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 0.034, 
+    "x1": 1.707, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.259, 
+    "x1": 1.866, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 0.134, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.134, 
+    "x1": 0.5, 
+    "y2": 1.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 1.0, 
+    "x1": 2.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.0, 
+    "x1": 1.966, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.0, 
+    "x1": 1.5, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.707, 
+    "x1": 0.134, 
+    "y2": 1.707, 
+    "color": "#84f45e"
+   }
+  ], 
+  [
+   {
+    "y1": 0.293, 
+    "x2": 0.034, 
+    "x1": 1.707, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 0.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.741, 
+    "x1": 1.866, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 2.0, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.966, 
+    "x1": 0.293, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.259, 
+    "x1": 1.966, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.5, 
+    "x1": 0.5, 
+    "y2": 0.134, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.5, 
+    "x1": 0.134, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 0.0, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }
+  ], 
+  [
+   {
+    "y1": 1.966, 
+    "x2": 0.034, 
+    "x1": 0.741, 
+    "y2": 0.741, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.5, 
+    "x1": 1.707, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 2.0, 
+    "x1": 1.707, 
+    "y2": 1.0, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 2.0, 
+    "x2": 1.5, 
+    "x1": 1.0, 
+    "y2": 1.866, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.5, 
+    "x1": 0.134, 
+    "y2": 0.134, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 0.0, 
+    "x1": 0.134, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 0.293, 
+    "x1": 1.0, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 1.866, 
+    "x1": 1.966, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.259, 
+    "x1": 1.966, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.034, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 0.293, 
+    "x1": 0.741, 
+    "y2": 1.707, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 1.5, 
+    "color": "#84f45e"
+   }
+  ], 
+  [
+   {
+    "y1": 0.134, 
+    "x2": 1.259, 
+    "x1": 1.5, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 0.0, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 2.0, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.741, 
+    "x1": 1.5, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.741, 
+    "x1": 1.259, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 0.034, 
+    "x1": 1.866, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.866, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 0.293, 
+    "x1": 0.034, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.293, 
+    "x1": 1.707, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.966, 
+    "x1": 1.966, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.5, 
+    "x1": 0.5, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }
+  ], 
+  [
+   {
+    "y1": 1.259, 
+    "x2": 0.5, 
+    "x1": 1.966, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.134, 
+    "x1": 0.5, 
+    "y2": 0.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.741, 
+    "x1": 0.293, 
+    "y2": 0.034, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 0.034, 
+    "x1": 0.293, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 1.5, 
+    "x1": 1.707, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.5, 
+    "x1": 0.134, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.034, 
+    "x1": 0.0, 
+    "y2": 1.259, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.741, 
+    "x1": 1.259, 
+    "y2": 1.966, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.0, 
+    "x1": 1.966, 
+    "y2": 2.0, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 2.0, 
+    "x1": 1.0, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.866, 
+    "x1": 1.707, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 1.5, 
+    "color": "#84f45e"
+   }
+  ], 
+  [
+   {
+    "y1": 1.0, 
+    "x2": 1.707, 
+    "x1": 2.0, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.0, 
+    "x1": 1.5, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 1.866, 
+    "x1": 1.966, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 0.293, 
+    "x1": 1.0, 
+    "y2": 0.293, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 1.707, 
+    "x1": 1.5, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 0.5, 
+    "x1": 0.134, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.5, 
+    "x2": 1.0, 
+    "x1": 0.134, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.259, 
+    "x1": 1.966, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 0.034, 
+    "x1": 0.741, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.034, 
+    "x1": 0.5, 
+    "y2": 1.259, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.707, 
+    "x2": 0.741, 
+    "x1": 0.293, 
+    "y2": 0.034, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 1.5, 
+    "color": "#84f45e"
+   }
+  ], 
+  [
+   {
+    "y1": 1.707, 
+    "x2": 0.034, 
+    "x1": 0.293, 
+    "y2": 0.741, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.5, 
+    "x2": 1.707, 
+    "x1": 1.866, 
+    "y2": 0.293, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.0, 
+    "x2": 1.0, 
+    "x1": 1.0, 
+    "y2": 2.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.0, 
+    "x2": 0.134, 
+    "x1": 2.0, 
+    "y2": 1.5, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.741, 
+    "x2": 1.259, 
+    "x1": 1.966, 
+    "y2": 1.966, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.5, 
+    "x1": 1.966, 
+    "y2": 1.866, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.293, 
+    "x2": 1.707, 
+    "x1": 0.293, 
+    "y2": 1.707, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.966, 
+    "x2": 1.5, 
+    "x1": 0.741, 
+    "y2": 0.134, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 0.034, 
+    "x2": 1.866, 
+    "x1": 1.259, 
+    "y2": 1.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 0.134, 
+    "x2": 0.134, 
+    "x1": 0.5, 
+    "y2": 0.5, 
+    "color": "#84f45e"
+   }, 
+   {
+    "y1": 1.259, 
+    "x2": 0.0, 
+    "x1": 0.034, 
+    "y2": 1.0, 
+    "color": "#730019"
+   }, 
+   {
+    "y1": 1.866, 
+    "x2": 0.741, 
+    "x1": 1.5, 
+    "y2": 0.034, 
+    "color": "#730019"
+   }
+  ]
+ ]
+}
